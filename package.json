@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/allex-libs/mailer/issues"
   },
-  "homepage": "https://github.com/allex-libs/mailer#readme"
+  "homepage": "https://github.com/allex-libs/mailer#readme",
+  "dependencies": {
+    "nodemailer": "4.1.x"
+  }
 }
