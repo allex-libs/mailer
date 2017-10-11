@@ -1,3 +1,8 @@
+//this file is simple json file with the following structure
+//{
+//  user : 'yourgmailusername@gmail.com',
+//  password : 'yourpassword'
+//}
 var credentials = require('./credentials.json');
 
 function createTransportObject(isSecure){
